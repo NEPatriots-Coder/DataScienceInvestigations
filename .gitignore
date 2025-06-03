@@ -405,3 +405,6 @@ dmypy.json
 *.Science
 */science/bin
 
+
+# Custom Python environment
+science/
